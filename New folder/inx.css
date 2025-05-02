@@ -1,0 +1,137 @@
+#m{
+    color: rgb(255, 255, 255);
+    text-align: center;
+    font-size: 70px;
+    font-style: bold;
+    background-color: rgb(0, 1, 89);
+    font-style: italic;
+    border-top-right-radius: 70px;
+    border-top-left-radius: 70px;
+    border-bottom-right-radius: 70px;
+    padding: 20px;
+    animation: paddingAnimation 2s ;
+    transition: transform 0.5s;
+    animation: paddingAnimation 2s;
+    animation-timing-function: ease-in-out;
+}
+
+@keyframes paddingAnimation {
+    0% {
+        padding: 20px;
+    }
+    50% {
+        padding: 40px;
+    }
+    100% {
+        padding: 20px;
+    }
+}
+.n{
+    color: rgb(255, 255, 255);
+    
+    font-style: inherit;
+    font-size: 60px;
+
+
+}
+#hd{
+    text-align: center;
+    width: 70%;
+    height: auto;
+    margin-top: 200px auto;
+    font-size: 20px;
+    padding: 20px;
+    transition: transform 0.5s;
+    }
+#hd:hover {
+        transform: scale(1.1);
+}
+*{
+    background-color: rgb(0, 0, 0);
+}
+#rs{
+    text-align: center;
+    width: 60%;
+    height: auto;
+    margin-left: 30px auto;
+    font-size: 20px;
+    padding: 20px;
+    transition: transform 0.5s;
+    }
+
+    #rs:hover {
+        transform: scale(1.1);
+}
+#lixis{
+    text-align: center;
+    width: 45%;
+    height: auto;
+    margin-left: 20px auto;
+    font-size: 20px;
+
+    padding: 20px;
+    transition: transform 0.5s;
+    }
+#lixis:hover {
+        transform: scale(1.1);
+}
+#mbower{
+    text-align: center;
+    width: 60%;
+    height: auto;
+    margin-left: 20px auto;
+    font-size: 20px;
+    padding: 20px;
+    transition: transform 0.5s;
+    }
+#mbower:hover {
+        transform: scale(1.1);
+}
+#mercedes{
+    text-align: center;
+    width: 40%;
+    height: auto;
+    margin-left: 20px auto;
+    font-size: 20px;
+    padding: 20px;
+    transition: transform 0.5s;
+    }
+#mercedes:hover {
+        transform: scale(1.1);
+}
+#r8{
+    text-align: center;
+    width: 60%;
+    height: auto;
+    margin-left: 20px auto;
+    font-size: 20px;
+    padding: 20px;
+    transition: transform 0.5s;
+    }
+#r8:hover {
+        transform: scale(1.1);
+}
+#gt3{
+    text-align: center;
+    width: 40%;
+    height: auto;
+    margin-left: 20px auto;
+    font-size: 20px;
+    padding: 20px;
+    transition: transform 0.5s;
+    }
+#gt3:hover {
+        transform: scale(1.1);
+}
+#mclassic{
+    text-align: center;
+    width: 40%;
+    height: auto;
+    margin-left: 20px auto;
+    font-size: 20px;
+    padding: 20px;
+    transition: transform 0.5s;
+    }
+#mclassic:hover {
+        transform: scale(1.1);
+}
