@@ -1,0 +1,35 @@
+.home{
+    background-image: url(burge.jpeg);
+    height: 100vh;
+    background-size: cover;
+    overflow: auto;
+ 
+}
+
+.home-contint{
+    align-items: center;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin-top: 30%;
+    align-items: center; 
+    /* overflow: auto; */
+    /* background-size: cover; */
+    
+}
+.o{
+    margin-top: 20px;
+    text-align: center;
+    border-radius: 30px;
+    padding: 12px;
+    width: 20;
+    background-color: rgba(0, 0, 0, 0.589);
+    background-size: cover;
+    overflow: auto;
+   
+}
+.layer{
+    overflow: auto;
+    background-color:  rgba(0, 0, 0, 0.501);
+    height: 100vh;
+} 
